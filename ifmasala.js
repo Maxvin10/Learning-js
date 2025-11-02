@@ -166,7 +166,7 @@
 
 // 16-masala
 // let a = 321, b = 42, c = 32;
-// if(a > b > c){
+// if(a < b < c){
 //     a*=2;
 //     b*=2;
 //     c*=2;
@@ -334,7 +334,7 @@
 //     console.log("Ikki xonali juft");
 // }
 // if(100 < n && n < 1000 && n % 2 !== 0 && n != 0){
-//     console.log("Uch xonali toq");
+//     console.log("Uch If – Sharxonali toq");
 // }
 // if(100 < n && n < 1000 && n % 2 === 0 && n != 0){
 //     console.log("Uch xonali juft");
